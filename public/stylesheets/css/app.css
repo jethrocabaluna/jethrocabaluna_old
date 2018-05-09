@@ -9,6 +9,9 @@ body {
   background-color: #000;
   font-family: "Lato", sans-serif; }
 
+input, textarea, button, select, a {
+  -webkit-tap-highlight-color: transparent; }
+
 hr {
   border: 0;
   height: 1px;
