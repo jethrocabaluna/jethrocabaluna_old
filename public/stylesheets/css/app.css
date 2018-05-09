@@ -33,18 +33,18 @@ hr {
     position: absolute; }
   .prlx1 .ptext {
     position: absolute;
-    top: 40%;
+    top: 35%;
     width: 100%;
     text-align: center;
     color: #fff;
-    font-size: 1.7rem;
+    font-size: 2.3rem;
     letter-spacing: 8px; }
     .prlx1 .ptext button {
       display: block;
-      width: 250px;
+      width: 280px;
       padding: 15px 20px;
-      font-size: 0.8rem;
-      margin: 20px auto;
+      font-size: 1.5rem;
+      margin: 30px auto;
       background-color: transparent;
       color: #fff;
       border-color: #e4c514;
@@ -283,6 +283,11 @@ footer {
 @media (max-width: 550px) {
   .prlx1 .pimg1 {
     background-attachment: scroll; }
+  .ptext {
+    font-size: 1.7rem !important; }
+    .ptext button {
+      width: 250px !important;
+      font-size: 0.8rem !important; }
   .section-projects .project-container .project .content .img-container {
     width: 98%; }
   .section-contactme .contactme-container .sender-info, .section-contactme .contactme-container .send-group {
