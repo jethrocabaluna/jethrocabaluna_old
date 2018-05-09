@@ -1,0 +1,20 @@
+{
+  "name": "v1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jethro Cabaluna",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "dotenv": "^5.0.1",
+    "ejs": "^2.5.9",
+    "express": "^4.16.3",
+    "nodemailer": "^4.6.4",
+    "scroll-behaviour": "^0.3.4",
+    "smoothscroll-polyfill": "^0.4.3"
+  }
+}
